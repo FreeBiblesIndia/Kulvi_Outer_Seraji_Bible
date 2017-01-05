@@ -22,8 +22,4 @@ You are free:
 Under the following conditions:
 
 * Attribution — You must attribute the work as follows: "Original work available at http://www.freebiblesindia.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-<<<<<<< HEAD
 * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-=======
-* ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
->>>>>>> 26a706b35696d4308f200ac7e48eb5d88af6305b
